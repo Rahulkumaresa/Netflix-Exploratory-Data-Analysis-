@@ -15,7 +15,7 @@ The goal is to transform raw data into meaningful insights that can help underst
 
 ---
 
-## 📂 Dataset
+##  Dataset
 
 * Source: Kaggle Netflix Dataset
 * Contains information about:
@@ -33,7 +33,7 @@ The goal is to transform raw data into meaningful insights that can help underst
 
 ## 🛠️ Tools & Technologies
 
-* Python 🐍
+* Python 
 * Pandas
 * NumPy
 * Matplotlib
@@ -42,7 +42,7 @@ The goal is to transform raw data into meaningful insights that can help underst
 
 ---
 
-## 🔍 Project Workflow
+## Project Workflow
 
 ### 1. Data Cleaning
 
@@ -68,17 +68,17 @@ The goal is to transform raw data into meaningful insights that can help underst
 
 ---
 
-## 📊 Key Insights
+##  Key Insights
 
-* 🎥 **Movies dominate Netflix content** compared to TV Shows
-* 📈 **Rapid growth after 2015**, showing platform expansion
-* 🌍 **United States produces the highest content**
-* ⭐ Majority of content falls under **TV-MA and TV-14 ratings**
-* 🎭 Drama and International content are among the most common genres
+*  **Movies dominate Netflix content** compared to TV Shows
+* **Rapid growth after 2015**, showing platform expansion
+*  **United States produces the highest content**
+*  Majority of content falls under **TV-MA and TV-14 ratings**
+*  Drama and International content are among the most common genres
 
 ---
 
-## 📈 Visualizations
+##  Visualizations
 
 The project includes:
 
@@ -89,7 +89,7 @@ The project includes:
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 📦 netflix-content-analysis
@@ -100,7 +100,7 @@ The project includes:
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 
 1. Clone the repository:
 
@@ -122,7 +122,7 @@ jupyter notebook
 
 ---
 
-## 💡 Future Improvements
+##  Future Improvements
 
 * Add interactive dashboards (Power BI / Tableau)
 * Perform advanced analysis (correlation, clustering)
@@ -130,13 +130,13 @@ jupyter notebook
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 Feel free to fork this repository and improve the analysis.
 
 ---
 
-## ⭐ If you found this useful
+##  If you found this useful
 
 Give this repo a ⭐ and share your feedback!
 
