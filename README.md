@@ -121,8 +121,4 @@ Feel free to fork this repository and improve the analysis.
 
 ---
 
-##  If you found this useful
 
-Give this repo a ⭐ and share your feedback!
-
----
