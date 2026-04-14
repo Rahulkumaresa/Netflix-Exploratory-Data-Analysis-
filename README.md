@@ -1,8 +1,6 @@
-# Netflix-Exploratory-Data-Analysis-
+# Netflix Content Analysis (EDA Project)
 
-# 🎬 Netflix Content Analysis (EDA Project)
-
-## 📌 Project Overview
+## Project Overview
 
 This project performs **Exploratory Data Analysis (EDA)** on the Netflix dataset to uncover insights about content trends, distribution, and growth over time.
 
@@ -31,7 +29,7 @@ The goal is to transform raw data into meaningful insights that can help underst
 
 ---
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 * Python 
 * Pandas
@@ -86,19 +84,6 @@ The project includes:
 * Bar charts
 * Time-series analysis
 * Heatmaps
-
----
-
-##  Project Structure
-
-```
-📦 netflix-content-analysis
- ┣ 📜 Exploratory-Data-Analysis.ipynb
- ┣ 📜 README.md
- ┗ 📂 dataset
-```
-
----
 
 ##  How to Run
 
