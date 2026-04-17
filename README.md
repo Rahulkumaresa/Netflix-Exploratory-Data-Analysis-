@@ -104,17 +104,6 @@ pip install pandas numpy matplotlib seaborn
 ```
 jupyter notebook
 ```
-
----
-
-##  Future Improvements
-
-* Add interactive dashboards (Power BI / Tableau)
-* Perform advanced analysis (correlation, clustering)
-* Build recommendation system using ML
-
----
-
 ##  Contributing
 
 Feel free to fork this repository and improve the analysis.
